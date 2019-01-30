@@ -8,7 +8,7 @@
 
 做做准备，春节后开搞
 
-- [x] react 模仿 zent UI 写一个 UI 组件库
+- [ ] react 模仿 zent UI 写一个 UI 组件库
 
 - [ ] vue 模仿 个 UI 组件库
 
