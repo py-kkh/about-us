@@ -14,8 +14,9 @@
 
 ### yui
 
-- [x] ~~想写个 html5 播放器~~ 看完 `DPlayer` 源码后失去了写的欲望。
-  - [文章链接](https://miaoyuxinbaby.github.io/2019/02/14/DPlayer%E8%A7%82%E5%90%8E%E6%84%9F/#more)
+- [x] ~~想写个 html5 播放器~~  看完 `DPlayer` 源码后失去了写的欲望。
+   [读完后写了一篇总结性的文章](https://miaoyuxinbaby.github.io/2019/02/14/DPlayer%E8%A7%82%E5%90%8E%E6%84%9F/#more)
+- [ ] 学习一下H5唤起原生APP的各种方式，并产出文章。
 
 ### douzi
 
