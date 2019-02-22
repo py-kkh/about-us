@@ -10,7 +10,7 @@
 
 ### all
 
-- [ ] react 模仿 zent UI 写一个 UI 组件库
+- [ ] vue 写一个 UI 组件库
 
 ### yui
 
