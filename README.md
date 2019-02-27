@@ -19,7 +19,7 @@
 - [x] 学习一下 H5 唤起原生 APP 的各种方式， ~~并产出文章。~~ [前人栽树，吾辈乘凉](https://suanmei.github.io/2018/08/23/h5_call_app/),就不献丑了。
 
 ### douzi
-- [x] 阅读 Redux 源码。正确来说是重复阅读 Redux 源码，这次是二遍了，每次都有新体验，每次都会发自肺腑的感叹写的真好
+- [x] 阅读 Redux 源码。正确来说是重复阅读 Redux 源码，这次是二遍了，每次都有新体验，每次都会发自肺腑的感叹写的真好。[源码解读](https://github.com/dongliang1993/learn-excellent-source-code/tree/master/redux%20%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0)
 - [x] 实现一个 Promise ，并能通过测试用例。这个其实没啥好说的，也经常有相关的文章
 
 ### 76
