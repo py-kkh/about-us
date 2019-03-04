@@ -21,6 +21,7 @@
 ### douzi
 - [x] 阅读 Redux 源码。正确来说是重复阅读 Redux 源码，这次是二遍了，每次都有新体验，每次都会发自肺腑的感叹写的真好。[源码解读](https://github.com/dongliang1993/learn-excellent-source-code/tree/master/redux%20%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0)
 - [x] 实现一个 Promise ，并能通过测试用例。这个其实没啥好说的，也经常有相关的文章
+- [x] 实现一个 node 中 EventEmitter 模块 。[代码地址](https://github.com/dongliang1993/learn-excellent-source-code/tree/master/EventEmitter%20%E8%BD%AE%E5%AD%90)
 
 ### 76
 
