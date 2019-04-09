@@ -28,8 +28,8 @@
 
 ### 76
 
-- [ ] 刷 vue 源码 掌握一些核心的点 。(一直在持续...  很水)
-- [ ] 手动实现一个Promise，  通过promise-aplus-tests 测试用例
+- [ ] 刷 vue 源码 掌握一些核心的点 。（一直在持续...  很水）（继续持续，目前在翻阅 深入浅出vue  写的真的棒棒~）
+- [x] 手动实现一个Promise，通过promise-aplus-tests测试用例 [可爱的链接~](https://github.com/ruhook/my-promise)
 
 ### hiro
 
