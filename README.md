@@ -2,22 +2,17 @@
 
 哦哈哟，here is `py-kkh` team 的第一个仓库，是接下来我们要学习(拉屎)的地方（茅房）、
 
-以上
-
-## 两周一开花，大家一起研究一个小猪蹄，烤熟了大家一起吃（分享各自吃完的感受）
+以上 des
 
 ## todoList
 
-### all
-
-- [ ] vue 写一个 [UI 组件库](https://github.com/py-kkh/k-on-ui)
-
 ### yui
 
+- [ ] vue 写一个 [UI 组件库](https://github.com/py-kkh/bilibili-ui)
 - [x] ~~想写个 html5 播放器~~ 看完 `DPlayer` 源码后失去了写的欲望。
       [读完后写了一篇总结性的文章](https://miaoyuxinbaby.github.io/2019/02/14/DPlayer%E8%A7%82%E5%90%8E%E6%84%9F/#more)
 - [x] 学习一下 H5 唤起原生 APP 的各种方式， ~~并产出文章。~~ [前人栽树，吾辈乘凉](https://suanmei.github.io/2018/08/23/h5_call_app/),就不献丑了。
-- [ ] 阅读 `APlayer` 源码
+- [x] 阅读 `APlayer` 源码。[仓库地址](https://github.com/miaoyuxinbaby/APlayer)
 
 ### douzi
 
@@ -33,7 +28,11 @@
 
 ### hiro
 
+- 失踪人口
+
 ### meng
+
+- [ ] node express开发微信小程序api [代码地址](https://github.com/Wonderfour/xcx-js)
 
 ### dabang
 
@@ -42,3 +41,5 @@
 - [ ] 学习 Nodejs，比整理成笔记梳理下来。这个篇幅可能就比较，估计分好几个篇文章来叙说了，这回坑挖的有点大。
 
 ### 皮皮脚
+
+- 失踪人口
