@@ -12,6 +12,7 @@
 - [x] ~~想写个 html5 播放器~~ 看完 `DPlayer` 源码后失去了写的欲望。 [读完后写了一篇总结性的文章](https://miaoyuxinbaby.github.io/2019/02/14/DPlayer%E8%A7%82%E5%90%8E%E6%84%9F/#more)
 - [x] 学习一下 H5 唤起原生 APP 的各种方式， ~~并产出文章。~~ [前人栽树，吾辈乘凉](https://suanmei.github.io/2018/08/23/h5_call_app/),就不献丑了。
 - [x] 阅读 `APlayer` 源码。[仓库地址](https://github.com/miaoyuxinbaby/APlayer)
+- [ ] 阅读 `vue-router` 源码。
 
 ### douzi
 
