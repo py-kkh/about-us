@@ -9,10 +9,10 @@
 ### yui
 
 - [ ] vue 写一个 [UI 组件库](https://github.com/py-kkh/bilibili-ui)
-- [x] ~~想写个 html5 播放器~~ 看完 `DPlayer` 源码后失去了写的欲望。
-      [读完后写了一篇总结性的文章](https://miaoyuxinbaby.github.io/2019/02/14/DPlayer%E8%A7%82%E5%90%8E%E6%84%9F/#more)
+- [x] ~~想写个 html5 播放器~~ 看完 `DPlayer` 源码后失去了写的欲望。 [读完后写了一篇总结性的文章](https://miaoyuxinbaby.github.io/2019/02/14/DPlayer%E8%A7%82%E5%90%8E%E6%84%9F/#more)
 - [x] 学习一下 H5 唤起原生 APP 的各种方式， ~~并产出文章。~~ [前人栽树，吾辈乘凉](https://suanmei.github.io/2018/08/23/h5_call_app/),就不献丑了。
 - [x] 阅读 `APlayer` 源码。[仓库地址](https://github.com/miaoyuxinbaby/APlayer)
+- [ ] 阅读 `vue-router` 源码。
 
 ### douzi
 
@@ -33,14 +33,16 @@
 
 ### meng
 
-- [ ] node express开发微信小程序api [代码地址](https://github.com/Wonderfour/xcx-js)
+- [ ] node express 开发微信小程序 api [代码地址](https://github.com/Wonderfour/xcx-js)
 
 ### dabang
 
 - [x] ~~阅读 preload.js 源码~~，这里没有看下去。转而退而其次扒了一下自己工作预加载的代码，然后得到一个讲述前端预加载的快乐段子。也算是强行填了一个坑吧！[快乐前端-图片预加载](https://www.cnblogs.com/chedabang/p/10508329.html)
 
-- [ ] 学习 Nodejs，比整理成笔记梳理下来。这个篇幅可能就比较，估计分好几个篇文章来叙说了，这回坑挖的有点大。
+- [ ] 学习 Nodejs，并整理成笔记梳理下来。这个篇幅可能就比较长，估计要分好几篇文章来述说了，这回坑挖的有点大。
+  - [ ] 第一章讲的用 Node 简单模拟服务器、demo 已经完成，但是对于 demo 中用的东西，比如 http 模块等相关知识点，文档注释等，还没有写完。
 
 ### 皮皮脚
 
-- 失踪人口
+- [ ] 基于业务封装 axios，想做成一个插件...做完我想做的功能可能要撸段时间了[代码地址](https://github.com/jeodeng/jee-axios)
+- [ ] 学习下服务端渲染，结合 vue 至少写个 demo 吧...从头到尾梳理成笔记
