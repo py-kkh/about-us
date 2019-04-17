@@ -40,7 +40,7 @@
 - [x] ~~阅读 preload.js 源码~~，这里没有看下去。转而退而其次扒了一下自己工作预加载的代码，然后得到一个讲述前端预加载的快乐段子。也算是强行填了一个坑吧！[快乐前端-图片预加载](https://www.cnblogs.com/chedabang/p/10508329.html)
 
 - [ ] 学习 Nodejs，并整理成笔记梳理下来。这个篇幅可能就比较长，估计要分好几篇文章来述说了，这回坑挖的有点大。
-  - [x] 第一章讲的用 Node入门知识点，一个创建服务器的小demo 已经完成，然后通过 demo 案例来初窥服务器上面东西，比如 http 模块等相关知识点，文档注释已经写完，后续有空再补充。[Node学习--01搭建Apache服务](https://github.com/CheDabang/blogCode/tree/master/NodeStudy/demo01Apache)
+  - [x] 第一章讲的用 Node入门知识点，一个创建服务器的小demo 已经完成，然后通过 demo 案例来初窥服务器上面东西，比如 http 模块等相关知识点，文档注释已经写完，后续有空再补充。[Node学习--Demo01](https://github.com/CheDabang/blogCode/tree/master/NodeStudy/DEMO_01)
   - [ ] 第二章应该是打算做一个完整ajax服务演示过程，然后实现过程的demo，目前暂时准备一个留言板功能的demo，具体看后续如何用demo延伸表述吧。
 
 ### 皮皮脚
