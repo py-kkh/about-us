@@ -27,6 +27,7 @@
 - [x] 手动实现一个Promise，通过promise-aplus-tests测试用例 [可爱的链接~](https://github.com/ruhook/my-promise)
 - [x] 实现 一个 bc-navigation [项目链接](https://github.com/ruhook/bc-navigation)
 - [x] 整理自己常用的axios和api目录配置，[详情](https://github.com/ruhook/axios-myself)
+- [ ] 整理better-scroll,实现下拉刷新，上拉加载，图片加载完毕->init,选项卡切换数据 scrollTop->0 ...
 ### hiro
 
 - 失踪人口
