@@ -23,7 +23,13 @@
 
 ### 76
 
--  失踪 失踪
+- [ ] 刷 vue 源码 掌握一些核心的点 。（一直在持续... 很水）（继续持续，目前在翻阅 深入浅出 vue 写的真的棒棒~）
+- [learning-web 仓库]（https://github.com/ruhook/learning-web） ： 关于前端的框架、插件的源码阅读和学习
+- [ ] 跟着深入浅出 vue，撸一遍代码，并记录 github[代码仓库](https://github.com/ruhook/myself-vue)
+- [x] 手动实现一个 Promise，通过 promise-aplus-tests 测试用例 [可爱的链接~](https://github.com/ruhook/my-promise)
+- [x] 实现 一个 bc-navigation [项目链接](https://github.com/ruhook/bc-navigation)
+- [x] 整理自己常用的 axios 和 api 目录配置，[详情](https://github.com/ruhook/axios-myself)
+- [x] 整理 better-scroll,实现全局组件 vue-scroll,实现下拉刷新，上拉加载，图片加载完毕->init,选项卡切换数据 scrollTop->0 ... [项目链接](https://github.com/ruhook/vue-scroll)
 
 ### hiro
 
@@ -38,8 +44,8 @@
 - [x] ~~阅读 preload.js 源码~~，这里没有看下去。转而退而其次扒了一下自己工作预加载的代码，然后得到一个讲述前端预加载的快乐段子。也算是强行填了一个坑吧！[快乐前端-图片预加载](https://www.cnblogs.com/chedabang/p/10508329.html)
 
 - [ ] 学习 Nodejs，并整理成笔记梳理下来。这个篇幅可能就比较长，估计要分好几篇文章来述说了，这回坑挖的有点大。
-  - [x] 第一章讲的用 Node入门知识点，一个创建服务器的小demo 已经完成，然后通过 demo 案例来初窥服务器上面东西，比如 http 模块等相关知识点，文档注释已经写完，后续有空再补充。[Node学习--Demo01](https://github.com/CheDabang/blogCode/tree/master/NodeStudy/DEMO_01)
-  - [ ] 第二章应该是打算做一个完整ajax服务演示过程，然后实现过程的demo，目前暂时准备一个留言板功能的demo，具体看后续如何用demo延伸表述吧。
+  - [x] 第一章讲的用 Node 入门知识点，一个创建服务器的小 demo 已经完成，然后通过 demo 案例来初窥服务器上面东西，比如 http 模块等相关知识点，文档注释已经写完，后续有空再补充。[Node 学习--Demo01](https://github.com/CheDabang/blogCode/tree/master/NodeStudy/DEMO_01)
+  - [ ] 第二章应该是打算做一个完整 ajax 服务演示过程，然后实现过程的 demo，目前暂时准备一个留言板功能的 demo，具体看后续如何用 demo 延伸表述吧。
 
 ### 皮皮脚
 
