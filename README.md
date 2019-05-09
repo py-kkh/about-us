@@ -49,7 +49,7 @@
 
 > 人一旦有时间思考，就喜欢拼命的立下flag。前一个flag还没有完成，就又下来新的flag。  
 - [ ] 刷vue源码，做笔记分享，并学以致用。
-  + [ ] 01章：直接js手撸一个简单vue双向数据绑定案例 []()
+  + [x] 01章：在线手撸mini版vue2 [项目demo](https://github.com/CheDabang/blogCode/tree/master/learnVue2)
 
 
 ### 皮皮脚
