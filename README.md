@@ -12,8 +12,9 @@
 - [x] ~~想写个 html5 播放器~~ 看完 `DPlayer` 源码后失去了写的欲望。 [读完后写了一篇总结性的文章](https://miaoyuxinbaby.github.io/2019/02/14/DPlayer%E8%A7%82%E5%90%8E%E6%84%9F/#more)
 - [x] 学习一下 H5 唤起原生 APP 的各种方式， ~~并产出文章。~~ [前人栽树，吾辈乘凉](https://suanmei.github.io/2018/08/23/h5_call_app/),就不献丑了。
 - [x] 阅读 `APlayer` 源码。[仓库地址](https://github.com/miaoyuxinbaby/APlayer)
-- [ ] ~~阅读 `vue-router` 源码~~。
+- [ ] ~~阅读 `vue-router` 源码~~。 不应该为了看源码而看源码，生活不能只有代码。
 - 失踪人口
+- 一位眼神呆滞的程序员想用笔，画出富有灵魂的纸片。想用吉他，去演绎曼妙的旋律。
 
 ### douzi
 
@@ -45,13 +46,13 @@
 - [x] ~~阅读 preload.js 源码~~，这里没有看下去。转而退而其次扒了一下自己工作预加载的代码，然后得到一个讲述前端预加载的快乐段子。也算是强行填了一个坑吧！[快乐前端-图片预加载](https://www.cnblogs.com/chedabang/p/10508329.html)
 
 - [ ] 学习 Nodejs，并整理成笔记梳理下来。这个篇幅可能就比较长，估计要分好几篇文章来述说了，这回坑挖的有点大。
-  + [x] 01章：模拟apache功能[项目地址](https://github.com/CheDabang/blogCode/tree/master/NodeStudy/DEMO_01)  
-  + [ ] 02章：实现`CURD`的案例
+  - [x] 01 章：模拟 apache 功能[项目地址](https://github.com/CheDabang/blogCode/tree/master/NodeStudy/DEMO_01)
+  - [ ] 02 章：实现`CURD`的案例
 
-> 人一旦有时间思考，就喜欢拼命的立下flag。前一个flag还没有完成，就又下来新的flag。  
-- [ ] 刷vue源码，做笔记分享，并学以致用。
-  + [x] 01章：在线手撸mini版vue2 [项目demo](https://github.com/CheDabang/blogCode/tree/master/learnVue2)
+> 人一旦有时间思考，就喜欢拼命的立下 flag。前一个 flag 还没有完成，就又下来新的 flag。
 
+- [ ] 刷 vue 源码，做笔记分享，并学以致用。
+  - [x] 01 章：在线手撸 mini 版 vue2 [项目 demo](https://github.com/CheDabang/blogCode/tree/master/learnVue2)
 
 ### 皮皮脚
 
