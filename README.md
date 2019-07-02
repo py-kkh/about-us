@@ -8,12 +8,10 @@
 
 ### yui
 
-- [ ] ~~vue 写一个 [UI 组件库]~~(https://github.com/py-kkh/bilibili-ui)
-- [x] ~~想写个 html5 播放器~~ 看完 `DPlayer` 源码后失去了写的欲望。 [读完后写了一篇总结性的文章](https://miaoyuxinbaby.github.io/2019/02/14/DPlayer%E8%A7%82%E5%90%8E%E6%84%9F/#more)
-- [x] 学习一下 H5 唤起原生 APP 的各种方式， ~~并产出文章。~~ [前人栽树，吾辈乘凉](https://suanmei.github.io/2018/08/23/h5_call_app/),就不献丑了。
+- [ ] ~~vue 写一个 [UI 组件库]~~(https://github.com/py-kkh/bilibili-ui) 咳咳。 弃坑 vue 了，拥抱 react
 - [x] 阅读 `APlayer` 源码。[仓库地址](https://github.com/miaoyuxinbaby/APlayer)
 - [ ] ~~阅读 `vue-router` 源码~~。 不应该为了看源码而看源码，生活不能只有代码。
-- ~~一位眼神呆滞的程序员想用笔，画出富有灵魂的纸片。想用吉他，去演绎曼妙的旋律。~~ 浪了一个月，该认清现实了，咳咳。 弃坑 vue 了，拥抱 react
+- ~~一位眼神呆滞的程序员想用笔，画出富有灵魂的纸片。想用吉他，去演绎曼妙的旋律。~~ 浪了一个月，该认清现实了
 
 ### douzi
 
