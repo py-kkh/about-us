@@ -11,8 +11,8 @@
 - [ ] ~~vue 写一个 [UI 组件库]~~(https://github.com/py-kkh/bilibili-ui) 咳咳。 弃坑 vue 了，拥抱 react
 - [x] 阅读 `APlayer` 源码。[仓库地址](https://github.com/miaoyuxinbaby/APlayer)
 - [ ] ~~阅读 `vue-router` 源码~~。 不应该为了看源码而看源码，生活不能只有代码。
-- ~~一位眼神呆滞的程序员想用笔，画出富有灵魂的纸片。想用吉他，去演绎曼妙的旋律。~~ 浪了一个月，该认清现实了
-- 这个二货，这三个月就只学了一个 react hooks，其他时间都在谈恋爱，打游戏。积极废人
+- [x] 学习`react hooks`, 并在生产项目中使用
+- [x] 学习 `TypeScript`, 并在生产项目中使用
 
 ### douzi
 
