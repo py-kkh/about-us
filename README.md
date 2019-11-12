@@ -56,3 +56,8 @@
 
 - [ ] 基于业务封装 axios，想做成一个插件...做完我想做的功能可能要撸段时间了[代码地址](https://github.com/jeodeng/jee-axios)
 - [ ] 学习下服务端渲染，结合 vue 至少写个 demo 吧...从头到尾梳理成笔记
+
+### 小龙
+
+- [ ] 读完并翻译V8抽象语法树的内容(https://github.com/pflhm2005/V8ToJS)
+- [ ] 年前尝试通过JS(或C++)生成"Hello World"的机器码(JS能否实现存疑，总之目的是实现生成机器码)
