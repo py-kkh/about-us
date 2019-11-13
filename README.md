@@ -62,7 +62,7 @@
 - [ ] 读完并争取翻译完V8抽象语法树的内容(https://github.com/pflhm2005/V8ToJS)
   - [ ] function函数声明
   - [x] class类声明
-  - [ ] var、const、let变量声明
+  - [x] var、const、let变量声明
   - [ ] async异步函数声明
   
   - [x] {}块级作用域
@@ -70,12 +70,13 @@
   - [x] do while语句
   - [x] while语句
   - [ ] for语句
-  - [ ] continue语句
-  - [ ] break语句
-  - [ ] return语句
+  - [x] continue语句
+  - [x] break语句
+  - [x] return语句
   - [x] throw语句
   - [ ] try语句
-  - [ ] with语句
+  - [x] with语句
   - [x] switch语句
   - [x] debugger语句
+有几个难度需要调试确定实现：template_string、function、preparse
 - [ ] 年前尝试通过JS(或C++)生成"Hello World"的机器码(JS能否实现存疑，总之目的是实现生成机器码)
