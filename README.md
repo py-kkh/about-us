@@ -44,9 +44,9 @@
 - [x] ~~阅读 preload.js 源码~~，这里没有看下去。转而退而其次扒了一下自己工作预加载的代码，然后得到一个讲述前端预加载的快乐段子。也算是强行填了一个坑吧！[快乐前端-图片预加载](https://www.cnblogs.com/chedabang/p/10508329.html)
 
 - [ ] 学习 Nodejs，并整理成笔记梳理下来。这个篇幅可能就比较长，估计要分好几篇文章来述说了，这回坑挖的有点大。
-  - [x] 01 章：模拟 apache 功能[项目地址](https://github.com/CheDabang/blogCode/tree/master/NodeStudy/DEMO_01)
-  - [ ] 02 章：实现`CURD`的案例
-
+  - [x] 01 章：模拟`apache`功能[项目地址](https://github.com/CheDabang/blogCode/tree/master/NodeStudy/DEMO_01)
+  - [x] 02 章：实现`CURD`的案例[项目地址](https://github.com/CheDabang/blogCode/tree/master/NodeStudy/DEMO_02)
+ 
 > 人一旦有时间思考，就喜欢拼命的立下 flag。前一个 flag 还没有完成，就又下来新的 flag。
 
 - [ ] 刷 vue 源码，做笔记分享，并学以致用。
