@@ -59,8 +59,8 @@
 
 ### 小龙
 
-- [ ] 读完并争取翻译完V8抽象语法树的内容(https://github.com/pflhm2005/V8ToJS)
-  - [ ] function函数声明
+- [ ] 读完并争取翻译完V8抽象语法树的内容，支持简单语法解析(https://github.com/pflhm2005/V8ToJS)
+  - [x] function函数声明
   - [x] class类声明
   - [x] var、const、let变量声明
   - [ ] async异步函数声明
@@ -80,7 +80,8 @@
   - [x] debugger语句
 
 以下几个难点需要调试确定实现，太难就不搞了
-  - [ ] template_string
+  - [x] template_string
   - [ ] preparse
   - [ ] lazy-compile
+
 - [ ] 年前尝试通过JS(或C++)生成"Hello World"的机器码(JS能否实现存疑，总之目的是实现生成机器码)
